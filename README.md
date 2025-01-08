@@ -20,8 +20,8 @@ This is a web application that uses a grid and interactive tools to visualize ho
 ## 🛠️ Features <a name="features"></a>
 
 - **User Interface:** Fully functional and interactive user interface.
-- **Build Walls** Allows users to drage squares across the grid to build walls between nodes.
-- **Algorithm Visualization** Uses a CSS effect to create an appealing algorithm effect.
+- **Build Walls:** Allows users to drage squares across the grid to build walls between nodes.
+- **Algorithm Visualization:** Uses a CSS effect to create an appealing algorithm effect.
 
 ## 🏃‍♂️ Quick Start <a name="quick-start"></a>
 

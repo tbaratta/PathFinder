@@ -37,31 +37,23 @@ Before you begin, make sure to install the following:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tbaratta/WealthWise_AI.git
+    git clone https://github.com/tbaratta/PathFinder.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd WealthWise_AI
+    cd PathFinder
     ```
 
 3. Install project dependecies using npm:
    ```bash
     npm install
     ```
-
-4. Create a new file named .env in the root of your project and add the following:
-   ```bash
-    API_KEY=
-    ```
-   Visit [Rapid API Website](https://rapidapi.com/rphrp1985/api/yahoo-finance160) to replace the placeholder value with a new api key.
    
-5. Load the emulator:
+5. Load the project on your machine:
    ```bash
-    npx expo start
-     i - ios
-     a - android
-     w - web
+   npm run build
+   npm run start
     ```
    

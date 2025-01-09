@@ -1,6 +1,9 @@
 # 🔎 Path Finder 🔎
 # Visualizing Dijkstra's Algorithm 👀
 # See the project in action -> [Click Here](https://www.youtube.com/watch?v=cY4swDDYqS0)
+<a href="https://www.youtube.com/watch?v=cY4swDDYqS0" target="_blank" rel="noopener noreferrer">
+  See the project in action -> Click Here
+</a>
 
 ## 🗒️ Table of Contents
 

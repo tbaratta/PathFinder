@@ -1,5 +1,5 @@
 # 🔎 Path Finder 🔎
-# 👀 Visualizing Dijkstra's Algorithm 👀
+# Visualizing Dijkstra's Algorithm 👀
 # See the project in action -> [Click Here](https://www.youtube.com/watch?v=cY4swDDYqS0)
 
 ## 🗒️ Table of Contents
